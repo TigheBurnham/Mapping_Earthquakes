@@ -4,7 +4,7 @@
 
 ## Overiew 
 
-In this challenge we created an earthquake map with three different overlay maps and data regarding earthquake magnitudes. The map was also updated to see the earthquake data in relation to the tectonic plates’ location on Earth. To show the differences in the magnitudes of the earth quakes we utilized a color and radius functions to demonstrate their varying magnitudes. Additionally, we provided a third overlay to shed more light on all the earthquakes with a magnitude greater than 4.5 on the map.
+In this challenge we created an earthquake map with three different overlay maps and data regarding earthquake magnitudes. The map was also updated to see the earthquake data in relation to the tectonic plates’ location on Earth. To show the differences in the magnitudes of the earthquakes we utilized color and radius functions to demonstrate their varying magnitudes. Additionally, we provided a third overlay to shed more light on all the earthquakes with a magnitude greater than 4.5 on the map.
 
 ## Results
 
